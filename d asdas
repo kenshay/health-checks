@@ -1,0 +1,72 @@
+[33mcommit 53669cefeea0ae2221ce3d87eb00d383ec93a9d0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/experiment[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mexperiment[m[33m)[m
+Author: Ken shay <kennyshay123@gmail.com>
+Date:   Tue Sep 15 08:54:05 2020 -0400
+
+    asd
+
+[1mdiff --git a/pucks.txt b/pucks.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..4e1949e[m
+[1m--- /dev/null[m
+[1m+++ b/pucks.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mthis is bullshit[m
+
+[33mcommit 3988435e460f83e0b551b6f1732d88735b57b9d5[m
+Author: Ken shay <kennyshay123@gmail.com>
+Date:   Tue Sep 15 08:47:58 2020 -0400
+
+    you suck
+
+[1mdiff --git a/yousuck.txt b/yousuck.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e63d06a[m
+[1m--- /dev/null[m
+[1m+++ b/yousuck.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32masdfs[m
+
+[33mcommit 0be98820900d744eb6b245447b4ee4732c1f753d[m
+Author: Ken shay <kennyshay123@gmail.com>
+Date:   Tue Sep 15 08:33:42 2020 -0400
+
+    new text
+
+[1mdiff --git a/txt.txt b/txt.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..8bd6648[m
+[1m--- /dev/null[m
+[1m+++ b/txt.txt[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32masdf[m
+
+[33mcommit 35417b0b3ec249c6f562960c4bcca92f48ec28f5[m
+Author: Ken shay <kennyshay123@gmail.com>
+Date:   Tue Sep 15 08:01:25 2020 -0400
+
+    Add one morel line to Readme
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 3b107b2..7039970 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,4 @@[m
+ # health-checks[m
+ Scripts that check the health of my computers[m
+[32m+[m
+[32m+[m[32mThis repo will be populated with lots of fancey checks.[m
+
+[33mcommit d4e11c6e4640cf1e7534bdbde7ff730fa23a64db[m
+Author: Ken Shay <kennyshay123@gmail.com>
+Date:   Tue Sep 15 07:56:00 2020 -0400
+
+    Initial commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3b107b2[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# health-checks[m
+[32m+[m[32mScripts that check the health of my computers[m
